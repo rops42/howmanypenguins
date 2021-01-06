@@ -1,2 +1,22 @@
-# howmanypenguins
-How many pinguins your shitty project kills on npm install downloads
+# HowManyPenguins  🐧
+How many penguins your shitty project kills on `npm install` process.
+
+**How to run it :** 
+Clone this repository  and perform the `hmp` command in the root folder of your project.
+It will detect and read your `package.json` file and provide you de nice score of how many penguins 🐧it just killed.
+
+After running it you will be allowed to inject your hmp-badge on your readme file to proudly show it to the world.
+**Exemples :** 
+| :knife:🐧🐧🐧| :knife:🐧🐧🐧🐧🐧 |
+|--|--|
+| :knife:🐧🐧🐧🐧🐧🐧🐧🐧 | :knife:🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧 |
+
+(I'm actually looking for a designer :heart: to help me build ~10levels badge generator )
+
+
+**The maths behind that :** 
+We simply calculate the actual packages size and apply the needed power consumption to download it. It is of course based on your project size too.
+Depending on this power usage we can easily and precisely calculate how many cute little penguins it must kill.
+
+
+If you want to improve this tool please feal free to reach me :heart:
