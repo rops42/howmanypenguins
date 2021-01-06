@@ -1,4 +1,5 @@
-# HowManyPenguins  🐧
+![banner](https://user-images.githubusercontent.com/6611776/103823149-caddeb80-5071-11eb-90b9-b60fb8e44c2d.png)
+
 How many penguins your shitty project kills on `npm install` process.
 
 **How to run it :** 
