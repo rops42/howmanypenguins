@@ -59,19 +59,19 @@ func Requirements() {
 func CountPenguins(size int64) (int64) {
 	prettyPrintSize(size)
 
-	penguins := (size%100)*3
+	penguins := size%100
 	return penguins
 }
 
 func PrintPenguins(penguins int64) {
-	fmt.Printf("🔪")
+	fmt.Printf("🔪 ")
 	for i := int64(1); i < penguins; i++ {
 		if i == 100 {
 			fmt.Printf(" You freak... ")	
 		} else if i == 200 {
 			fmt.Printf(" Really ?! ")	
 		} else {
-			fmt.Printf("🐧")
+			fmt.Printf("🐧 ")
 		}
 	}
 	fmt.Printf("\n")
