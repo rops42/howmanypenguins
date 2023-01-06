@@ -7,7 +7,7 @@ Clone this repository  and perform the `hmp` command in the root folder of your 
 It will detect and read your `package.json` file and provide you de nice score of how many penguins 🐧 it just killed.
 
 After running it you will be allowed to inject your hmp-badge on your readme file to proudly show it to the world.
-**Exemples :**
+**Examples :**
 | :knife:🐧 🐧 🐧 | :knife:🐧 🐧 🐧 🐧 🐧  |
 |--|--|
 | :knife:🐧 🐧 🐧 🐧 🐧 🐧 🐧 🐧  | :knife:🐧 🐧 🐧 🐧 🐧 🐧 🐧 🐧 🐧 🐧 🐧 🐧 🐧  |
